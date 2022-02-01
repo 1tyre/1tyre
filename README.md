@@ -1,6 +1,6 @@
 # 1tyre (me, lol)
 
-![tweny one](https://media.discordapp.net/attachments/883138118956503072/887460976339849278/lebrown.gif)
+![OBAMA 01](https://cdn.discordapp.com/attachments/899681869690462238/937957204584198174/Daniel.mp4)
 
 im a coding newbie
 here's the coding languages i know
@@ -10,4 +10,4 @@ here's the coding languages i know
 the coding languages im learning
 - PHP
 
-check out [my website](https://tyre.ml)
+check out [my website](https://tyretical.xyz)
