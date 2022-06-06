@@ -1,6 +1,7 @@
-# 1tyre (me, lol)
+# HI MY NAME IS tyre (a.k.a tyretical)
 
-![OBAMA 01](https://cdn.discordapp.com/attachments/926277511208398888/937960550942511154/my_wee_wee_goes_BOING_BOING.jpg)
+![OBAMA 01]([https://cdn.discordapp.com/attachments/950207797570715719/981674468931940372/newtyrexyz_shadowyes.png])
+
 
 im a coding newbie
 here's the coding languages i know
