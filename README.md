@@ -1,13 +1,4 @@
-# my name is tyre (also know as "tyretical")
+# my name is tyretical
+alias: tyre, tyre7000
 
-![OBAMA 01]([https://cdn.discordapp.com/attachments/1025951478638182480/1029195506729107517/IMG_20220914_191442.jpg])
-
-
-coding languages i know (a bit)
-- Lua
-- HTML
-
-coding languages im learning
-- PHP
-
-check out [this hot website](https://tyretical.xyz)
+![OBAMA 01]([https://cdn.discordapp.com/attachments/1037570035574644836/1072402214624182294/Screenshot_20230206-130210_YouTube.jpg])
